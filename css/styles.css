@@ -1,0 +1,49 @@
+body{
+    background-color:#e4e978;
+    color:#464646;
+}
+header{
+    background-color: #cad315;
+    padding-bottom: 100px;
+}
+footer{
+    background-color: #cad315;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+main{
+    text-align: center;
+}
+.boldFont{
+font-size: 7rem;
+text-align: center;
+}
+#robotText{
+   width:250px;
+    height:175px;
+    background-color: #d37815;
+    border-width: 10px;
+    border-color: #f2f4c0;
+    border-style:solid;
+    box-sizing: border-box;
+    border-radius: 5%;
+}
+.medFont{
+
+}
+.imageIntro{
+    font-size: 4rem;
+   }
+   .photoStory
+   {
+       width:50%;
+
+       text-align:center;
+       margin: 2rem auto;
+
+   }
+#alesiaPhotos{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
